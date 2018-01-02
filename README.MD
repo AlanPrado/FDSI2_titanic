@@ -12,6 +12,9 @@ tripulação.
 Foi considerado preservar a cor para cada tipo de dado ao longo de todos os
 gráficos, entretanto nem sempre foi possível.
 
+Em alguns momentos foram utilizados o tamanho para realçar a proporção entre os
+dados comparados.
+
 Para visualizar distribuições foram utilizados gráficos de caixa, histograma,
 barras.
 
