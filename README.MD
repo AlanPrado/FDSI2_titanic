@@ -100,3 +100,12 @@ inclua todos os comentários que outras pessoas fizeram sobre sua visualização
 * https://onlinehelp.tableau.com/current/pro/desktop/en-us/maps_howto_origin_destination.html
 * https://onlinehelp.tableau.com/current/pro/desktop/pt-br/buildexamples_maps.html
 * https://onlinehelp.tableau.com/current/server/en-us/csvguidelines.htms
+
+## Copyright e Licença
+Code and documentation copyright 2017-2017 Code released under the [MIT License](https://github.com/AlanPrado/FDSI2_titanic/blob/master/LICENSE)
+
+## Autor
+
+### Autor Original e lider de desenvolvimento
+
+- Alan Thiago do Prado (aprado.cnsp@gmail.com)
