@@ -7,6 +7,11 @@ A visualização contempla dados de idade, cidade de embarque, e condições
 economicas sobre todos os passegeiros presentes no desastre com exceção da
 tripulação.
 
+# Links
+
+* Versão [inicial](https://public.tableau.com/shared/RKYF4WWJG?:display_count=yes)
+* Versão [final](https://public.tableau.com/shared/YPP2DFYFF?:display_count=yes)
+
 # Design
 
 Foi considerado preservar a cor para cada tipo de dado ao longo de todos os
@@ -50,6 +55,7 @@ Texto - Acidente
 Gráfico - Relação de sobreviventes por idade e sexo
 Gráfico - Relação de sobreviventes por preço do bilhete
 Gráfico - Relação de sobreviventes por classe
+Gráfico - Relação de sobreviventes por familia
 Texto - Conclusão
 
 Foi necessário criar algumas colunas de campo calculado, como por exemplo a
@@ -62,8 +68,9 @@ Finalmente um porção aliases foram cadastrados.
 
 # Comentários
 
-// TODO
-inclua todos os comentários que outras pessoas fizeram sobre sua visualização, desde o primeiro esboço até a visualização final
+[Forum](https://discussions.udacity.com/t/coleta-de-feedback-projeto-final-tableau-titanic-alanprado/501511/4)
+
+Pessoas que eu conversei pessoalmente acharam o segundo gráfico da relação de sobreviventes por classe confusa.
 
 # Recursos
 
