@@ -104,8 +104,10 @@ Finalmente, varios aliases foram cadastrados.
 O objetivo era destacar os outliers, e por isso a escolha foi mantida.
 
 - Na parte " A juventude se destaca…" não gostei muito do gráfico de pizza para a distribuição de homens e mulheres, embora eu ache que seja soó minha perseguição padrão contra gráficos de pizza;
-Manter o gráfico de pizza tornava a visualização consistente com a versão do mesmo gráfico para sobreviventes.
-Entretanto, caso fosse alterado a segunda visualização ficaria muito poluida.
+Não foi alterado o grafico de pizza para outro tipo de gráfico, pois manter o
+gráfico de pizza tornava a visualização consistente com a versão do mesmo
+dashboard para sobreviventes. Entretanto, caso fosse alterado o grafico de pizza
+faltamente iria ocupar mais espaço o que faria a visualização ficar poluida.
 
 - Na parte “A partida”: gostei bastante, embora preferiria modificar o # por n ou quantidade;
 Os textos foram alterados.
